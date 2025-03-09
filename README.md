@@ -1,1 +1,2 @@
-# module11_homework
+# learn-js
+js examples for fast learning
